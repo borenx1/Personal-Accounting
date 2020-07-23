@@ -2,6 +2,10 @@
 
 Developed mid-2017
 
+## Instructions
+
+Execute "PACX.py" with "transaction.py" and "Boren Personal.txt" in the same directory. Needs python libraries numpy and matplotlib.
+
 ## Purpose
 
 Provide a convenient way to log and store my personal income and expenses for budgeting purposes
