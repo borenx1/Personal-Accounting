@@ -28,7 +28,7 @@ Develop a computer software GUI using Python's tkinter GUI framework
 
 - Input entries into a transaction journal with an amount, description, type (income, expense etc.) and date
 - Group and order the transactions by different time periods, eg. weekly or monthly
-- Include tools for basic analysis, eg. total income and expenses average a period of time, average spending over a period and visualisation by integrating matplotlib charts.
+- Include tools for basic analysis, eg. total income and expenses over a period of time, average spending over a period and visualisation by integrating matplotlib charts.
 
 ## Improvements
 
