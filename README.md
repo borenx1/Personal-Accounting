@@ -7,9 +7,13 @@ Developed mid-2017
 Execute "PACX.py" with "transaction.py" and "Boren Personal.txt" in the same directory. Needs python libraries numpy and matplotlib.
 
 ### Entering a transaction
+
 Amount: A number
+
 Description: A description
+
 Type: An integer 1 to 5 mapping to different types of transactions
+
 Date: Date
 
 ## Purpose
