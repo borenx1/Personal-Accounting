@@ -1,6 +1,6 @@
 # Personal-Accounting Project
 
-Developed mid-2017
+*Developed mid 2017*
 
 ## Instructions
 
