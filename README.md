@@ -34,3 +34,7 @@ Develop a computer software GUI using Python's tkinter GUI framework
 
 - Better code structuring and documentation; this was one of my first projects and the vast majority of the code was written on one .py file with 1400 lines, barely no documentation
 - Make the usage more intuitive by using better widgets, better labeling and writing documentation
+
+## Screenshots
+![Screenshot 1](https://github.com/borenx1/Personal-Accounting/blob/master/screenshots/1.png?raw=true)
+![Screenshot 2](https://github.com/borenx1/Personal-Accounting/blob/master/screenshots/2.png?raw=true)
